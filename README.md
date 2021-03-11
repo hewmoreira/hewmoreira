@@ -17,5 +17,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hewmoreira&show_icons=true&locale=en&layout=compact" alt="hewmoreira" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?hewmoreira=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hewmoreira)](https://github.com/hewmoreira/github-readme-stats)
 
