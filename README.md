@@ -23,5 +23,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hewmoreira&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/hewmoreira/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hewmoreira&show_icons=true&locale=en&layout=compact?theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hewmoreira&show_icons=true&theme=dark&locale=en&layout=compact" />
 </a>
