@@ -10,6 +10,10 @@
 <a href="https://twitter.com/hewmoreira" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="hewmoreira"/></a>
 <a href="https://linkedin.com/in/hewmoreira" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="hewmoreira"/></a>
 <a href="https://linktr.ee/hewmoreira" target="blank"><img align="center" src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" alt="https://linktr.ee/hewmoreira"/></a>
+<a href="https://t.me/hewmoreira" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="https://t.me/hewmoreira"/></a>
+<a href="mailto:hewertonfm@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="https://t.me/hewmoreira"/></a>
+<a href="https://www.github.com/hewmoreira" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="https://www.github.com/hewmoreira"/></a> 
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
