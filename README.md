@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hewerton Moreira</h1>
-<h3 align="center">I am recent engineering graduate looking for opportunities and collabaration in projects related to frontend developer.</h3>
+<h3 align="center">I am engineering graduate looking for opportunities and collabaration in projects related to frontend developer.</h3>
 
 - 🌱 I’m currently learning **JS, HTML5 and CSS3.**
 
