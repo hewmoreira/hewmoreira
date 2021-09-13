@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hewerton Moreira</h1>
-<h3 align="center">I am engineering graduate looking for opportunities and collabaration in projects related to frontend developer.</h3>
+<h3 align="center">I am engineering graduate looking for opportunities and collabaration in projects related to full-stack developer.</h3>
 
-- 🌱 I’m currently learning **JS, HTML5 and CSS3.**
+- 🌱 I’m currently learning **.NET Core Framework, JS, Vue.js, Node.js.**
 
-- 🤝 I’m looking to collaborate on **frontend projects.**
+- 🤝 I’m looking to collaborate on **full-stack projects.**
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hewmoreira&show_icons=true&theme=dark)](https://github.com/hewmoreira/github-readme-stats)</p>
