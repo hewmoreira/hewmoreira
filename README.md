@@ -29,5 +29,6 @@
 <a href="https://linktr.ee/hewmoreira" target="blank"><img align="center" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="https://linktr.ee/hewmoreira"/></a>
 <a href="https://t.me/hewmoreira" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="https://t.me/hewmoreira"/></a>
 <a href="mailto:hewertonfm@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="https://t.me/hewmoreira"/></a>
-<a href="https://www.github.com/hewmoreira" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="https://www.github.com/hewmoreira"/></a> 
+<a href="https://www.github.com/hewmoreira" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="https://www.github.com/hewmoreira"/></a>
+<a href="https://www.github.com/hewmoreira" target="blank"><img align="center" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="https://gitlab.com/hewmoreira"/></a>  
 </p>
