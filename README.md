@@ -3,6 +3,9 @@
 
 - 🌱 I’m currently learning **.NET Core Framework, AngularJS, Vue.js, Node.js.**
 
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hewmoreira&show_icons=true&theme=dark&locale=en&layout=compact" alt="hewmoreira" />
+</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hewmoreira&show_icons=true&theme=dark)](https://github.com/hewmoreira/github-readme-stats)</p>
   
@@ -16,10 +19,6 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hewmoreira&show_icons=true&theme=dark&locale=en&layout=compact" alt="hewmoreira" />
-</p>
 </p>
 
 <h3 align="left">Connect with me:</h3>
