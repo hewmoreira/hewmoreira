@@ -1,7 +1,5 @@
 <h1 align="center">Hey 👋, I'm Hewerton</h1>
-<h3 align="center">I am engineering graduate looking for opportunities and collabaration in projects related to full-stack developer.</h3>
-
-- 🌱 I’m currently learning **.NET Core Framework, AngularJS, Vue.js, Node.js.**
+<h3 align="center">I'm software engineer looking for opportunities and collabaration in projects related to C# and JavaScript.</h3>
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hewmoreira&show_icons=true&theme=dark&locale=en&layout=compact" alt="hewmoreira" />
@@ -16,9 +14,6 @@
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
 
 <h3 align="left">Connect with me:</h3>
