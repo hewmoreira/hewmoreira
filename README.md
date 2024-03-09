@@ -1,11 +1,5 @@
 <h2 align="left">Hewerton Moreira</h1>
-<h4 align="left">I'm software engineer looking for opportunities and collabaration in projects related to C# and JavaScript.</h3>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hewmoreira&show_icons=true&theme=dark&locale=en&layout=compact" alt="hewmoreira" />
-</p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hewmoreira&show_icons=true&theme=dark)](https://github.com/hewmoreira/github-readme-stats)</p>
+<h4 align="left">Professional with over 8 years of experience in public service, excelling in leadership, management, teamwork, communication, empathy, and technology. Since 2021, I have been working as a Software Engineer, focusing mainly on backend development with .NET and C#, and expanding my hard skills in frontend with JavaScript, TypeScript, and React.</h3>
   
 <h3 align="left">Stacks</h3>
 <p align="left">
@@ -19,7 +13,5 @@
 
 <h3 align="left">Contact</h3>
 <p align="left">
-<a href="https://twitter.com/hewmoreira" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="40"/></a>
 <a href="https://linkedin.com/in/hewmoreira" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/></a>
-<a href="https://www.gitlab.com/hewmoreira" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/></a>  
 </p>
