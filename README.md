@@ -1,5 +1,5 @@
 # Hewerton Moreira
-Backend Software Engineer with strong expertise in C# and RESTful APIs, currently focused on serverless development using Node.js and TypeScript. Experienced in building scalable applications using Clean Architecture and cloud solutions. Work with AWS Lambda, DynamoDB, and cloud-native services. Previous leadership experience in public sector projects has enhanced my collaborative approach and project management skills. Currently expanding frontend knowledge with React.
+Backend Software Engineer with experience in developing scalable and high-performance applications using technologies such as Node.js, TypeScript, C#, .NET, and GraphQL. Skilled in designing microservices architectures, cloud computing with AWS (Lambda, DynamoDB, CloudWatch), and implementing Clean Architecture principles. Passionate about optimizing system performance, migrating applications to serverless environments, and collaborating in cross-functional teams to build innovative solutions. Dedicated to tackling complex technical challenges and building products that drive measurable user value. Previous leadership experience in public sector projects has enhanced my collaborative approach and project management skills. Currently expanding frontend knowledge with React.
 
 # Stacks
 <p align="left">
